@@ -208,6 +208,10 @@ body{
 
 /*END OF MENU CATEGORIES PAGE */
 
+.menu-item-tile{
+/*  margin-bottom: 25px; */
+}
+
 /******** Large devices only *******/
 @media(min-width:1200px){
   .jumbotron{
